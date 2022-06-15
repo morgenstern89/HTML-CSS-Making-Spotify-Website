@@ -1,2 +1,2 @@
 # Production URL
-https://spotify-website.morgenstern89.repl.co/
+https://spotify-demo-page-project.netlify.app/
